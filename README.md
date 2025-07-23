@@ -26,7 +26,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Soil Values Geoportal](https://github.com/IsaacBosire/soil-values-geoportal) | Interactive GIS portal for soil, climate, and land data visualization | `FastAPI`, `Vue 3`, `PostGIS`, `Mapbox` |
+| [Soil Values Geoportal](https://github.com/IsaacBosire/soil-values-geoportal) | Interactive GIS portal for soil, climate, and land data visualization | `Python`, `FastAPI`, `TypeScript`, `Vue 3`, `PostGIS`, `Mapbox` |
 | [FreelanceFlow](#) | Finance dashboard for freelancers: invoices, clients, stats | `FastAPI`, `Vue 3`, `Tailwind`, `Chart.js` |
 | [Resume Parser API](#)  | Upload resume → structured JSON output via API | `FastAPI`, `Python`, `NLP` |
 | [FastAPI-Vue Starter](#)  | Boilerplate for full-stack apps with auth & Docker | `FastAPI`, `Vue 3`, `Docker` |
@@ -36,7 +36,7 @@
 ## 📚 Learning in Public
 
 I share my journey, guides, and dev logs via:  
-- 📬 [Substack ](#)  
+- 📬 [Substack](#)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/isaac-bosire-0a605a180/)  
 - 🧪 [Dev.to](#)
 
