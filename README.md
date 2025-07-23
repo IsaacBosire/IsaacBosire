@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isaac Bosire
 
-🌍 **Software Engineer | GIS Specialist | Full-Stack Developer**  
+🌍 **Software Engineer | GIS Developer | Full-Stack Developer**  
 💡 Passionate about building impactful tools at the intersection of **geospatial tech**, **backend engineering**, and **user-centered design**.  
 🧠 Currently leading backend & frontend development for the [Soil Values GeoPortal](https://github.com/IsaacBosire/soil-values-geoportal), a multi-country platform for soil fertility & climate resilience in West Africa.
 
@@ -27,18 +27,18 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Soil Values Geoportal](https://github.com/IsaacBosire/soil-values-geoportal) | Interactive GIS portal for soil, climate, and land data visualization | `FastAPI`, `Vue 3`, `PostGIS`, `Mapbox` |
-| [FreelanceFlow](#) *(Coming soon)* | Finance dashboard for freelancers: invoices, clients, stats | `FastAPI`, `Vue 3`, `Tailwind`, `Chart.js` |
-| [Resume Parser API](#) *(Coming soon)* | Upload resume → structured JSON output via API | `FastAPI`, `Python`, `NLP` |
-| [FastAPI-Vue Starter](#) *(Coming soon)* | Boilerplate for full-stack apps with auth & Docker | `FastAPI`, `Vue 3`, `Docker` |
+| [FreelanceFlow](#) | Finance dashboard for freelancers: invoices, clients, stats | `FastAPI`, `Vue 3`, `Tailwind`, `Chart.js` |
+| [Resume Parser API](#)  | Upload resume → structured JSON output via API | `FastAPI`, `Python`, `NLP` |
+| [FastAPI-Vue Starter](#)  | Boilerplate for full-stack apps with auth & Docker | `FastAPI`, `Vue 3`, `Docker` |
 
 ---
 
 ## 📚 Learning in Public
 
 I share my journey, guides, and dev logs via:  
-- 📬 [Substack (Coming Soon)](#)  
+- 📬 [Substack ](#)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/isaac-bosire-0a605a180/)  
-- 🧪 [Dev.to (Coming Soon)](#)
+- 🧪 [Dev.to](#)
 
 ---
 
