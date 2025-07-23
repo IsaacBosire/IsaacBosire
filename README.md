@@ -30,19 +30,3 @@
 | [FreelanceFlow](#) | Finance dashboard for freelancers: invoices, clients, stats | `FastAPI`, `Vue 3`, `Tailwind`, `Chart.js` |
 | [Resume Parser API](#)  | Upload resume → structured JSON output via API | `FastAPI`, `Python`, `NLP` |
 | [FastAPI-Vue Starter](#)  | Boilerplate for full-stack apps with auth & Docker | `FastAPI`, `Vue 3`, `Docker` |
-
----
-
-## 📚 Learning in Public
-
-I share my journey, guides, and dev logs via:  
-- 📬 [Substack](#)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/isaac-bosire-0a605a180/)  
-- 🧪 [Dev.to](#)
-
----
-
-## 💬 Let's Connect
-
-- Email: [isaacosuma@gmail.com](mailto:isaacosuma@gmail.com)
-- GitHub: [@IsaacBosire](https://github.com/IsaacBosire)
