@@ -2,7 +2,7 @@
 
 🌍 **Software Engineer · GIS Developer · Full-Stack Developer**  
 💡 Passionate about building impactful tools at the intersection of **geospatial technology**, **backend engineering**, and **user-centred design**.  
-🧠 Currently leading backend & frontend development for the [Soil Values GeoPortal](https://isaacbosire.github.io/soil_values/) — a multi-country platform for soil fertility & climate resilience in West Africa, built with SNV Netherlands Development Organisation and IFDC.
+🧠 Currently leading backend & frontend development for the [Soil Values GeoPortal](https://isaacbosire.github.io/soil_values/) - a multi-country platform for soil fertility & climate resilience in West Africa, built with SNV Netherlands Development Organisation and IFDC.
 
 ---
 
