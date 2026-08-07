@@ -6,7 +6,7 @@ Currently leading backend & frontend development for the [Soil Values GeoPortal]
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**  
 `Python` `FastAPI` `Vue.js 3` `TypeScript` `C# (.NET Core)` `Java` `Django` `HTML/CSS/JS`
@@ -28,7 +28,7 @@ Currently leading backend & frontend development for the [Soil Values GeoPortal]
 |---------|-------------|-------|
 | [Soil Values GeoPortal](https://github.com/IsaacBosire/soil_values) | Interactive GIS portal for soil fertility, land cover, and climate data across Nigeria, Niger, Mali & Burkina Faso | `Python` `FastAPI` `Vue 3` `TypeScript` `PostGIS` `GeoServer` `Mapbox GL` `GEE` |
 
-🔨 More projects coming soon.
+
 
 ---
 
