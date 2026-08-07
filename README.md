@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Isaac Bosire
+#  Hi, I'm Isaac Bosire
 
-🌍 **Software Engineer · GIS Developer · Full-Stack Developer**  
-💡 Passionate about building impactful tools at the intersection of **geospatial technology**, **backend engineering**, and **user-centred design**.  
-🧠 Currently leading backend & frontend development for the [Soil Values GeoPortal](https://isaacbosire.github.io/soil_values/) - a multi-country platform for soil fertility & climate resilience in West Africa, built with SNV Netherlands Development Organisation and IFDC.
+**Software Engineer · GIS Developer · Full-Stack Developer**  
+Passionate about building impactful tools at the intersection of **geospatial technology**, **backend engineering**, and **user-centred design**.  
+Currently leading backend & frontend development for the [Soil Values GeoPortal](https://isaacbosire.github.io/soil_values/) - a multi-country platform for soil fertility & climate resilience in West Africa, built with SNV Netherlands Development Organisation and IFDC.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -32,7 +32,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/isaacbosire)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/IsaacBosire)
