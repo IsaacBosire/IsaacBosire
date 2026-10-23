@@ -73,7 +73,7 @@ My contribution has evolved across several stages of the platform:
 
 `FastAPI` `Vue.js` `TypeScript` `PostgreSQL` `PostGIS` `GeoServer` `Mapbox GL JS` `Google Earth Engine` `Docker`
 
-🔗 [View public repository](https://github.com/IsaacBosire/soil_values)
+🔗 [View](https://geoportal.soilvaluesafrica.org)
 
 ---
 
@@ -113,7 +113,7 @@ I value:
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/isaacbosire)
-- [GitHub](https://github.com/IsaacBosire)
+- [GitHub](https://www.linkedin.com/in/isaac-bosire-0a605a180/)
 
 ---
 
