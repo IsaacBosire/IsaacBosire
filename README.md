@@ -4,13 +4,13 @@
 
 I build and support digital solutions across software engineering, geospatial systems, APIs, data workflows, and technical quality assurance.
 
-My experience spans the digital delivery lifecycle, from developing geospatial applications and backend services to technical handover, implementation review, QA/UAT, documentation, and programme digital support.
+My experience spans the delivery lifecycle, from building geospatial applications and backend services to technical handover, implementation review, QA/UAT, documentation, and digital programme support.
 
-I enjoy working where **technology, data, digital workflows, and real operational needs** come together.
+I enjoy working at the intersection of **technology, data, digital systems, and practical delivery**.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I Work On
 
 - Digital Solutions & Programme Technology
 - Technical QA & User Acceptance Testing
@@ -38,9 +38,9 @@ I enjoy working where **technology, data, digital workflows, and real operationa
 
 `PostGIS` `GeoServer` `QGIS` `Mapbox GL JS` `Leaflet` `Google Earth Engine`
 
-### Databases
+### Data & Databases
 
-`PostgreSQL` `PostGIS` `SQL`
+`PostgreSQL` `PostGIS` `SQL` `GeoJSON`
 
 ### Infrastructure & Development
 
@@ -62,7 +62,7 @@ My contribution has evolved across several stages of the platform:
 
 - Developed the initial GeoPortal prototype and interactive geospatial interface
 - Built backend APIs and spatial-data services
-- Worked with PostgreSQL/PostGIS, GeoServer, Mapbox GL JS, and geospatial datasets
+- Developed workflows using PostgreSQL/PostGIS, GeoServer, Mapbox GL JS, and geospatial datasets
 - Supported API and external-data integration
 - Produced technical documentation and handover materials
 - Supported technical handover and implementation continuity
@@ -73,48 +73,53 @@ My contribution has evolved across several stages of the platform:
 
 `FastAPI` `Vue.js` `TypeScript` `PostgreSQL` `PostGIS` `GeoServer` `Mapbox GL JS` `Google Earth Engine` `Docker`
 
-🔗 [View](https://geoportal.soilvaluesafrica.org)
+🌐 [View the Soil Values GeoPortal](https://geoportal.soilvaluesafrica.org)
 
 ---
 
-## 💡 What I'm Interested In
+## 💡 Areas I'm Exploring
 
-I'm particularly interested in work that connects technical implementation with practical delivery, including:
+I'm particularly interested in work that connects strong technical foundations with practical implementation and delivery:
 
-- Digital solutions and digital transformation
-- Geospatial and data systems
-- Software and API integration
-- Technical QA and implementation oversight
-- Information and data management
-- Microsoft 365-based digital workflows
-- Knowledge and technical documentation
-- Responsible and practical uses of AI
-- Technology supporting development, agriculture, climate, and decision-making
+- Digital Solutions & Digital Transformation
+- Geospatial & Data Systems
+- Software & Systems Integration
+- APIs & Business System Integration
+- Technical QA & Implementation Oversight
+- Information & Data Management
+- Data Governance & Quality
+- Microsoft 365 & Digital Workflows
+- Knowledge Systems & Technical Documentation
+- Responsible & Practical Uses of AI
+- Technology for Development, Agriculture, Climate, and Decision Support
 
-I'm also interested in how strong technical foundations can be combined with implementation, governance, coordination, and user needs to build digital systems that remain useful beyond the development phase.
+I'm interested in how **software, data, implementation, governance, coordination, and user needs** can work together to create digital solutions that remain useful beyond the initial development phase.
 
 ---
 
 ## 🧭 How I Work
 
-I value:
+A few principles I try to bring to technical and digital work:
 
-- Building from clear requirements
-- Testing against real user needs
-- Documenting decisions and technical context
-- Source and evidence traceability
-- Clear communication between technical and non-technical teams
-- Maintainable and understandable systems
-- Human review when using AI-assisted workflows
-- Continuous learning through real delivery
+- Start with the problem and clear requirements
+- Build around real users and operational needs
+- Test what is delivered against what was intended
+- Keep technical decisions and context documented
+- Maintain traceability between evidence, requirements, and decisions
+- Communicate clearly across technical and non-technical teams
+- Prefer maintainable systems over unnecessary complexity
+- Treat documentation and handover as part of delivery
+- Keep human judgement and review in AI-assisted workflows
+- Keep learning through real implementation
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/isaacbosire)
-- [GitHub](https://www.linkedin.com/in/isaac-bosire-0a605a180/)
+- [GitHub](https://github.com/IsaacBosire)
 
 ---
 
-> Building practical technology that helps people make better decisions.
+> **Building practical technology that helps people make better decisions.**
+
