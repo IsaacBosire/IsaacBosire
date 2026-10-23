@@ -1,88 +1,119 @@
 # Hi, I'm Isaac Bosire 👋
 
-Software Engineer | GIS Developer | Full-Stack Developer
+### Software Engineer | Digital Solutions | Geospatial Systems | Technical QA
 
-I build geospatial applications, backend systems, and data-driven tools that support agriculture, climate resilience, and international development programmes.
+I build and support digital solutions across software engineering, geospatial systems, APIs, data workflows, and technical quality assurance.
 
-Currently working on the Soil Values GeoPortal, a multi-country GIS platform supporting soil health and land-use analysis across West Africa.
+My experience spans the digital delivery lifecycle, from developing geospatial applications and backend services to technical handover, implementation review, QA/UAT, documentation, and programme digital support.
+
+I enjoy working where **technology, data, digital workflows, and real operational needs** come together.
 
 ---
 
 ## 🚀 Current Focus
 
-- GIS Web Development
-- FastAPI Backend Development
-- Vue.js Applications
-- Spatial Databases & PostGIS
-- GeoServer & Map Services
-- Remote Sensing & Earth Observation
-- Open Source Geospatial Technologies
+- Digital Solutions & Programme Technology
+- Technical QA & User Acceptance Testing
+- GIS & Geospatial Systems
+- Python / FastAPI & API Integration
+- PostgreSQL / PostGIS & Spatial Data
+- Requirements & Implementation Analysis
+- Microsoft 365 & Digital Workflows
+- Technical Documentation & Knowledge Management
+- Responsible AI-Assisted Workflows
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Stack
 
-### Backend
-`Python` `FastAPI` `Django` `C# (.NET)` `Java`
+### Backend & APIs
+
+`Python` `FastAPI` `REST APIs` `SQL` `SQLAlchemy`
 
 ### Frontend
+
 `Vue.js` `TypeScript` `JavaScript` `HTML` `CSS`
 
-### GIS
-`PostGIS` `GeoServer` `QGIS` `ArcGIS`
-`Google Earth Engine` `Mapbox GL JS`
+### GIS & Geospatial
+
+`PostGIS` `GeoServer` `QGIS` `Mapbox GL JS` `Leaflet` `Google Earth Engine`
 
 ### Databases
-`PostgreSQL` `SQL Server`
-`MongoDB` `SQLite`
 
-### DevOps
-`Docker`
-`GitHub Actions`
-`Azure DevOps`
-`Linux`
-`NGINX`
+`PostgreSQL` `PostGIS` `SQL`
+
+### Infrastructure & Development
+
+`Docker` `Docker Compose` `Linux` `Git` `GitHub`
+
+### Digital Delivery
+
+`Technical QA` `UAT` `Requirements Analysis` `Technical Documentation` `Microsoft 365` `SharePoint` `Microsoft Lists` `Information Management`
 
 ---
 
-## 🌍 Featured Project
+## 🌍 Featured Work
 
 ### Soil Values GeoPortal
 
-A GIS platform designed to provide access to soil fertility, climate, land-use, and agricultural datasets across:
+A multi-country geospatial platform supporting access to and visualization of soil, land-use, climate, agricultural, and programme information across West Africa.
 
-- Nigeria
-- Niger
-- Mali
-- Burkina Faso
+My contribution has evolved across several stages of the platform:
 
-**Technology Stack**
+- Developed the initial GeoPortal prototype and interactive geospatial interface
+- Built backend APIs and spatial-data services
+- Worked with PostgreSQL/PostGIS, GeoServer, Mapbox GL JS, and geospatial datasets
+- Supported API and external-data integration
+- Produced technical documentation and handover materials
+- Supported technical handover and implementation continuity
+- Conducted technical QA, CMS/UAT testing, and implementation review
+- Supported launch readiness and technical coordination
 
-`FastAPI`
-`Vue.js`
-`TypeScript`
-`PostGIS`
-`GeoServer`
-`Mapbox GL JS`
-`Google Earth Engine`
+**Core technologies**
 
-🔗 Repository: https://github.com/IsaacBosire/soil_values
+`FastAPI` `Vue.js` `TypeScript` `PostgreSQL` `PostGIS` `GeoServer` `Mapbox GL JS` `Google Earth Engine` `Docker`
 
-🔗 Live Demo: [Soil Values GeoPortal](https://isaacbosire.github.io/soil_values/)
+🔗 [View public repository](https://github.com/IsaacBosire/soil_values)
 
 ---
 
-## 📊 GitHub Stats
+## 💡 What I'm Interested In
 
-![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacBosire&show_icons=true)
+I'm particularly interested in work that connects technical implementation with practical delivery, including:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-l
+- Digital solutions and digital transformation
+- Geospatial and data systems
+- Software and API integration
+- Technical QA and implementation oversight
+- Information and data management
+- Microsoft 365-based digital workflows
+- Knowledge and technical documentation
+- Responsible and practical uses of AI
+- Technology supporting development, agriculture, climate, and decision-making
+
+I'm also interested in how strong technical foundations can be combined with implementation, governance, coordination, and user needs to build digital systems that remain useful beyond the development phase.
+
+---
+
+## 🧭 How I Work
+
+I value:
+
+- Building from clear requirements
+- Testing against real user needs
+- Documenting decisions and technical context
+- Source and evidence traceability
+- Clear communication between technical and non-technical teams
+- Maintainable and understandable systems
+- Human review when using AI-assisted workflows
+- Continuous learning through real delivery
+
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/isaacbosire
-- GitHub: [@IsaacBosire](https://github.com/IsaacBosire)
+- [LinkedIn](https://www.linkedin.com/in/isaacbosire)
+- [GitHub](https://github.com/IsaacBosire)
 
 ---
 
